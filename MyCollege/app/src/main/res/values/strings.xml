@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My College</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Open_drawer">Open navigation Drawer</string>
+    <string name="Close_drawer">close navigation drawer</string>
+    <string name="about_aap">My College app provide all information and notification of College . Giving a job Oppurinity and provideing courses and online free paid courses for Students. We are working for providing Notes Videos lectures for students. This aap provides hand written notes for students thank you ..... </string>
+</resources>

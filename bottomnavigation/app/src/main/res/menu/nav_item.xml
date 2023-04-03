@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+
+    <item android:id="@+id/Contect"
+        android:title="Contect"
+        android:icon="@drawable/contect"/>
+
+    <item android:id="@+id/earn"
+        android:title="Earn"
+        android:icon="@drawable/earn"/>
+
+    <item android:id="@+id/faculty"
+        android:title="Faculty"
+        android:icon="@drawable/faculty"/>
+
+    <item android:id="@+id/myprofile"
+        android:title="My Profile"
+        android:icon="@drawable/person"/>
+
+
+</menu>

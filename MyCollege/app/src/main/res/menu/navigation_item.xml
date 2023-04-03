@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/notes"
+        android:title="Notes"
+        android:icon="@drawable/notes"/>
+
+    <item android:id="@+id/videos"
+        android:title="Videos"
+        android:icon="@drawable/video"/>
+
+    <item android:id="@+id/doubts"
+        android:title="Doubts"
+        android:icon="@drawable/doubt"/>
+
+    <item android:id="@+id/setings"
+        android:title="Settings"
+        android:icon="@drawable/set"/>
+
+    <item android:id="@+id/share"
+        android:title="Share"
+        android:icon="@drawable/share"/>
+
+    <item android:id="@+id/contct"
+        android:title="Contect Us "
+        android:icon="@drawable/help"/>
+
+
+
+</menu>
